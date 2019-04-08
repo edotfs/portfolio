@@ -25,3 +25,11 @@
 [![SAP1](images/L4.png)](./SAP_HCP_Sensor_Step1.ipynb)
 
 [![SAP2](images/L8.png)](./SAP_HCP_Sensor_Step2.ipynb)
+
+## Hardware
+
+### Raspberry PI, Arduino & Sensors
+
+![4wd1](images/4wd1.jpg)
+
+![4wd2](images/4wd2.jpg)
