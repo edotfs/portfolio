@@ -1,10 +1,16 @@
 # Portfolio
 
-## BMW Machine Learning Project
+## Nvidia Jetson nano
 
-### Keras, Raspberry PI, Sensors
+![CV1](images/cv_main.jpg)
 
-![BMW1](images/ml_bmw.jpg)
+## Nvidia Jetson nano
+
+![JN1](images/jn_main.jpg)
+
+## Deep Learning
+
+![DL1](images/dl_main.jpg)
 
 ## Data Science
 
