@@ -6,11 +6,11 @@
 
 ## Nvidia Jetson nano
 
-![JN1](images/jn_main.png)
+[![JN1](images/jn_main.png)](./Nvidia_Jetson_Nano_GPIO.ipynb)
 
 ## Deep Learning
 
-![DL1](images/dl_main.png)
+[![DL1](images/dl_main.png)](./DL_Image_Classification.ipynb)
 
 ## Data Science
 
