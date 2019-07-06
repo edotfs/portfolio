@@ -1,16 +1,16 @@
 # Portfolio
 
+## Self Driving Car
+
+![CV1](images/cv_main.png)
+
 ## Nvidia Jetson nano
 
-![CV1](images/cv_main.jpg)
-
-## Nvidia Jetson nano
-
-![JN1](images/jn_main.jpg)
+![JN1](images/jn_main.png)
 
 ## Deep Learning
 
-![DL1](images/dl_main.jpg)
+![DL1](images/dl_main.png)
 
 ## Data Science
 
