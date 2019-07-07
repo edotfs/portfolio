@@ -2,15 +2,15 @@
 
 ## Self Driving Car
 
-![CV1](images/cv_main.png)
+[![CV1](images/L13.png)](./CV_Self_Driving_Car.ipynb)
 
 ## Nvidia Jetson nano
 
-[![JN1](images/jn_main.png)](./Nvidia_Jetson_Nano_GPIO.ipynb)
+[![JN1](images/L12.png)](./Nvidia_Jetson_Nano_GPIO.ipynb)
 
 ## Deep Learning
 
-[![DL1](images/dl_main.png)](./DL_Image_Classification.ipynb)
+[![DL1](images/L11.png)](./DL_Image_Classification.ipynb)
 
 ## Data Science
 
