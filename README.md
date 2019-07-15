@@ -46,7 +46,7 @@
 
 ### Nvidia Jetson Nano, Raspberry PI, Arduino, Camera & Sensors
 
-![4wd1](images/cv_car_main.jpg)
+![4wd1](images/cv_car_road.jpg)
 
 ![4wd2](images/cv_car_lateral.jpg)
 
