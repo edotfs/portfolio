@@ -44,8 +44,18 @@
 
 ## Hardware
 
-### Raspberry PI, Arduino & Sensors
+### Nvidia Jetson Nano, Raspberry PI, Arduino, Camera & Sensors
 
-![4wd1](images/4wd1.jpg)
+![4wd1](images/cv_car_main.jpg)
 
-![4wd2](images/4wd2.jpg)
+![4wd2](images/cv_car_lateral.jpg)
+
+![4wd3](images/cv_car_lateral1.jpg)
+
+![4wd4](images/4wd1.jpg)
+
+![4wd5](images/4wd2.jpg)
+
+![4wd6](images/dl_bmw_car_video.png)
+
+![4wd7](images/dl_red_ball_video.png)
