@@ -8,7 +8,9 @@
 
 ## Big Data
 
-[![SP1](images/L14.png)](./Spark_Nvidia_Jetson_Nano.ipynb)
+[![BD1](images/L17.png)](./BD_Hadoop_Standalone.ipynb)
+
+[![BD2](images/L14.png)](./BD_Spark_Standalone.ipynb)
 
 ## Deep Learning
 
