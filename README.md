@@ -4,7 +4,9 @@
 
 [![CV1](images/L13.png)](./CV_Self_Driving_Car.ipynb)
 
-## Spark
+[![CV2](images/L16.png)](./Donkey_Car_Project.ipynb)
+
+## Big Data
 
 [![SP1](images/L14.png)](./Spark_Nvidia_Jetson_Nano.ipynb)
 
@@ -15,6 +17,8 @@
 ## Nvidia Jetson Nano
 
 [![JN1](images/L12.png)](./Nvidia_Jetson_Nano_GPIO.ipynb)
+
+[![JN2](images/L15.png)](./ROS_RC_Car.ipynb)
 
 ## Data Science
 
@@ -45,6 +49,8 @@
 ## Hardware
 
 ### Nvidia Jetson Nano, Raspberry PI, Arduino, Camera & Sensors
+
+![4wd0](images/donkeycar_main.jpg)
 
 ![4wd1](images/cv_car_road.jpg)
 
