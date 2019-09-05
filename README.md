@@ -8,9 +8,16 @@
 
 ## Big Data
 
-[![BD1](images/L17.png)](./BD_Hadoop_Standalone.ipynb)
+[![BD1](images/L14.png)](./BD_Spark_Standalone.ipynb)
 
-[![BD2](images/L14.png)](./BD_Spark_Standalone.ipynb)
+[![BD2](images/L17.png)](./BD_Hadoop_MapReduce.ipynb)
+
+[![BD3](images/L18.png)](./BD_Hadoop_HDFS.ipynb)
+
+[![BD4](images/L19.png)](./BD_Hadoop_Yarn.ipynb)
+
+[![BD5](images/L20.png)](./BD_Hive.ipynb)
+
 
 ## Deep Learning
 
