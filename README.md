@@ -18,6 +18,10 @@
 
 [![BD5](images/L20.png)](./BD_Hive.ipynb)
 
+[![BD6](images/L21.png)](./BD_Azure_Hadoop.ipynb)
+
+[![BD7](images/L23.png)](./BD_Azure_Spark.ipynb)
+
 
 ## Deep Learning
 
@@ -49,11 +53,16 @@
 
 [![ML3](images/L10.png)](./ML_Linear_Regression.ipynb)
 
+
 ## SAP
 
 [![SAP1](images/L4.png)](./SAP_HCP_Sensor_Step1.ipynb)
 
 [![SAP2](images/L8.png)](./SAP_HCP_Sensor_Step2.ipynb)
+
+[![SAP3](images/L22.png)](./SAP_Hana_Azure_A.ipynb)
+
+[![SAP4](images/L24.png)](./SAP_Hana_Azure_B.ipynb)
 
 ## Hardware
 
