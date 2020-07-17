@@ -1,4 +1,19 @@
 # Portfolio
+## Google Cloud Platform
+
+[![GCP1](images/L31.png)](./GCP_IoT_Step1.ipynb)
+
+[![GCP2](images/L32.png)](./GCP_IoT_Step2.ipynb)
+
+[![GCP3](images/L33.png)](./GCP_IoT_Step3.ipynb)
+
+[![GCP4](images/L34.png)](./GCP_IoT_Step4.ipynb)
+
+[![GCP5](images/L35.png)](./GCP_IoT_Step5.ipynb)
+
+[![GCP6](images/L36.png)](./GCP_IoT_Step6.ipynb)
+
+[![GCP7](images/L37.png)](./GCP_IoT_Step7.ipynb)
 
 ## Autonomous Car
 
