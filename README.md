@@ -40,32 +40,9 @@
 
 [![CV2](images/L16.png)](jupyter_notebook/Donkey_Car_Project.ipynb)
 
-## Big Data
-
-[![BD1](images/L14.png)](jupyter_notebook/BD_Spark_Standalone.ipynb)
-
-[![BD2](images/L17.png)](jupyter_notebook/BD_Hadoop_MapReduce.ipynb)
-
-[![BD3](images/L18.png)](jupyter_notebook/BD_Hadoop_HDFS.ipynb)
-
-[![BD4](images/L19.png)](jupyter_notebook/BD_Hadoop_Yarn.ipynb)
-
-[![BD5](images/L20.png)](jupyter_notebook/BD_Hive.ipynb)
-
-[![BD6](images/L21.png)](jupyter_notebook/BD_Azure_Hadoop.ipynb)
-
-[![BD7](images/L23.png)](jupyter_notebook/BD_Azure_Spark.ipynb)
-
-
 ## Deep Learning
 
 [![DL1](images/L11.png)](jupyter_notebook/DL_Image_Classification.ipynb)
-
-## Nvidia Jetson Nano
-
-[![JN1](images/L12.png)](jupyter_notebook/Nvidia_Jetson_Nano_GPIO.ipynb)
-
-[![JN2](images/L15.png)](jupyter_notebook/ROS_RC_Car.ipynb)
 
 ## Data Science
 
@@ -87,6 +64,27 @@
 
 [![ML3](images/L10.png)](jupyter_notebook/ML_Linear_Regression.ipynb)
 
+## Big Data
+
+[![BD1](images/L14.png)](jupyter_notebook/BD_Spark_Standalone.ipynb)
+
+[![BD2](images/L17.png)](jupyter_notebook/BD_Hadoop_MapReduce.ipynb)
+
+[![BD3](images/L18.png)](jupyter_notebook/BD_Hadoop_HDFS.ipynb)
+
+[![BD4](images/L19.png)](jupyter_notebook/BD_Hadoop_Yarn.ipynb)
+
+[![BD5](images/L20.png)](jupyter_notebook/BD_Hive.ipynb)
+
+[![BD6](images/L21.png)](jupyter_notebook/BD_Azure_Hadoop.ipynb)
+
+[![BD7](images/L23.png)](jupyter_notebook/BD_Azure_Spark.ipynb)
+
+## Nvidia Jetson Nano
+
+[![JN1](images/L12.png)](jupyter_notebook/Nvidia_Jetson_Nano_GPIO.ipynb)
+
+[![JN2](images/L15.png)](jupyter_notebook/ROS_RC_Car.ipynb)
 
 ## SAP
 
