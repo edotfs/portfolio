@@ -8,15 +8,15 @@
 
 ## Amazon Web Services
 
-[![AWS1](images/L38.png)](./AWS_IoT_Step1.ipynb)
+[![AWS1](images/L38.png)](jupyter_notebook/AWS_IoT_Step1.ipynb)
 
-[![AWS2](images/L39.png)](./AWS_IoT_Step2.ipynb)
+[![AWS2](images/L39.png)](jupyter_notebook/AWS_IoT_Step2.ipynb)
 
-[![AWS3](images/L40.png)](./AWS_IoT_Step3.ipynb)
+[![AWS3](images/L40.png)](jupyter_notebook/AWS_IoT_Step3.ipynb)
 
-[![AWS4](images/L41.png)](./AWS_IoT_Step4.ipynb)
+[![AWS4](images/L41.png)](jupyter_notebook/AWS_IoT_Step4.ipynb)
 
-[![AWS5](images/L42.png)](./AWS_IoT_Step5.ipynb)
+[![AWS5](images/L42.png)](jupyter_notebook/AWS_IoT_Step5.ipynb)
 
 ## Google Cloud Platform
 
