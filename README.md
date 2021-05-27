@@ -20,83 +20,83 @@
 
 ## Google Cloud Platform
 
-[![GCP1](images/L31.png)](./GCP_IoT_Step1A.ipynb)
+[![GCP1](images/L31.png)](jupyter_notebook/GCP_IoT_Step1A.ipynb)
 
-[![GCP2](images/L32.png)](./GCP_IoT_Step1B.ipynb)
+[![GCP2](images/L32.png)](jupyter_notebook/GCP_IoT_Step1B.ipynb)
 
-[![GCP3](images/L33.png)](./GCP_IoT_Step1C.ipynb)
+[![GCP3](images/L33.png)](jupyter_notebook/GCP_IoT_Step1C.ipynb)
 
-[![GCP4](images/L34.png)](./GCP_IoT_Step1D.ipynb)
+[![GCP4](images/L34.png)](jupyter_notebook/GCP_IoT_Step1D.ipynb)
 
-[![GCP5](images/L35.png)](./GCP_IoT_Step1E.ipynb)
+[![GCP5](images/L35.png)](jupyter_notebook/GCP_IoT_Step1E.ipynb)
 
-[![GCP6](images/L36.png)](./GCP_IoT_Step1F.ipynb)
+[![GCP6](images/L36.png)](jupyter_notebook/GCP_IoT_Step1F.ipynb)
 
-[![GCP7](images/L37.png)](./GCP_IoT_Step1G.ipynb)
+[![GCP7](images/L37.png)](jupyter_notebook/GCP_IoT_Step1G.ipynb)
 
 ## Autonomous Car
 
-[![CV1](images/L13.png)](./CV_Self_Driving_Car.ipynb)
+[![CV1](images/L13.png)](jupyter_notebook/CV_Self_Driving_Car.ipynb)
 
-[![CV2](images/L16.png)](./Donkey_Car_Project.ipynb)
+[![CV2](images/L16.png)](jupyter_notebook/Donkey_Car_Project.ipynb)
 
 ## Big Data
 
-[![BD1](images/L14.png)](./BD_Spark_Standalone.ipynb)
+[![BD1](images/L14.png)](jupyter_notebook/BD_Spark_Standalone.ipynb)
 
-[![BD2](images/L17.png)](./BD_Hadoop_MapReduce.ipynb)
+[![BD2](images/L17.png)](jupyter_notebook/BD_Hadoop_MapReduce.ipynb)
 
-[![BD3](images/L18.png)](./BD_Hadoop_HDFS.ipynb)
+[![BD3](images/L18.png)](jupyter_notebook/BD_Hadoop_HDFS.ipynb)
 
-[![BD4](images/L19.png)](./BD_Hadoop_Yarn.ipynb)
+[![BD4](images/L19.png)](jupyter_notebook/BD_Hadoop_Yarn.ipynb)
 
-[![BD5](images/L20.png)](./BD_Hive.ipynb)
+[![BD5](images/L20.png)](jupyter_notebook/BD_Hive.ipynb)
 
-[![BD6](images/L21.png)](./BD_Azure_Hadoop.ipynb)
+[![BD6](images/L21.png)](jupyter_notebook/BD_Azure_Hadoop.ipynb)
 
-[![BD7](images/L23.png)](./BD_Azure_Spark.ipynb)
+[![BD7](images/L23.png)](jupyter_notebook/BD_Azure_Spark.ipynb)
 
 
 ## Deep Learning
 
-[![DL1](images/L11.png)](./DL_Image_Classification.ipynb)
+[![DL1](images/L11.png)](jupyter_notebook/DL_Image_Classification.ipynb)
 
 ## Nvidia Jetson Nano
 
-[![JN1](images/L12.png)](./Nvidia_Jetson_Nano_GPIO.ipynb)
+[![JN1](images/L12.png)](jupyter_notebook/Nvidia_Jetson_Nano_GPIO.ipynb)
 
-[![JN2](images/L15.png)](./ROS_RC_Car.ipynb)
+[![JN2](images/L15.png)](jupyter_notebook/ROS_RC_Car.ipynb)
 
 ## Data Science
 
-[![DS1](images/L1.png)](./DS_eBay_Kleinanzeigen.ipynb)
+[![DS1](images/L1.png)](jupyter_notebook/DS_eBay_Kleinanzeigen.ipynb)
 
-[![DS2](images/L3.png)](./DS_Dataset_Step1.ipynb)
+[![DS2](images/L3.png)](jupyter_notebook/DS_Dataset_Step1.ipynb)
 
-[![DS3](images/L6.png)](./DS_Dataset_Step2.ipynb)
+[![DS3](images/L6.png)](jupyter_notebook/DS_Dataset_Step2.ipynb)
 
-[![DS4](images/L7.png)](./log_temp.py)
+[![DS4](images/L7.png)](others/log_temp.py)
 
-[![DS5](images/L9.png)](./log_temp.log)
+[![DS5](images/L9.png)](others/log_temp.log)
 
 ## Machine Learning
 
-[![ML1](images/L2.png)](./ML_Tensorflow_Iris.ipynb)
+[![ML1](images/L2.png)](jupyter_notebook/ML_Tensorflow_Iris.ipynb)
 
-[![ML2](images/L5.png)](./ML_Banknote.ipynb)
+[![ML2](images/L5.png)](jupyter_notebook/ML_Banknote.ipynb)
 
-[![ML3](images/L10.png)](./ML_Linear_Regression.ipynb)
+[![ML3](images/L10.png)](jupyter_notebook/ML_Linear_Regression.ipynb)
 
 
 ## SAP
 
-[![SAP1](images/L4.png)](./SAP_HCP_Sensor_Step1.ipynb)
+[![SAP1](images/L4.png)](jupyter_notebook/SAP_HCP_Sensor_Step1.ipynb)
 
-[![SAP2](images/L8.png)](./SAP_HCP_Sensor_Step2.ipynb)
+[![SAP2](images/L8.png)](jupyter_notebook/SAP_HCP_Sensor_Step2.ipynb)
 
-[![SAP3](images/L22.png)](./SAP_Hana_Azure_A.ipynb)
+[![SAP3](images/L22.png)](jupyter_notebook/SAP_Hana_Azure_A.ipynb)
 
-[![SAP4](images/L24.png)](./SAP_Hana_Azure_B.ipynb)
+[![SAP4](images/L24.png)](jupyter_notebook/SAP_Hana_Azure_B.ipynb)
 
 ## Hardware
 
