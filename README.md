@@ -6,6 +6,8 @@
 
 ![Cloud2](images/L45.png)
 
+![Cloud3](videos/cv_self_driving_car.mp4)
+
 ## Amazon Web Services
 
 [![AWS1](images/L38.png)](jupyter_notebook/AWS_IoT_Step1.ipynb)
