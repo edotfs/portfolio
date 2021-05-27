@@ -46,21 +46,21 @@
 
 ## Data Science
 
-[![DS1](images/L1.png)](jupyter_notebooks/DS_eBay_Kleinanzeigen.ipynb)
+[![DS1](images/L01.png)](jupyter_notebooks/DS_eBay_Kleinanzeigen.ipynb)
 
-[![DS2](images/L3.png)](jupyter_notebooks/DS_Dataset_Step1.ipynb)
+[![DS2](images/L03.png)](jupyter_notebooks/DS_Dataset_Step1.ipynb)
 
-[![DS3](images/L6.png)](jupyter_notebooks/DS_Dataset_Step2.ipynb)
+[![DS3](images/L06.png)](jupyter_notebooks/DS_Dataset_Step2.ipynb)
 
-[![DS4](images/L7.png)](others/log_temp.py)
+[![DS4](images/L07.png)](others/log_temp.py)
 
-[![DS5](images/L9.png)](others/log_temp.log)
+[![DS5](images/L09.png)](others/log_temp.log)
 
 ## Machine Learning
 
-[![ML1](images/L2.png)](jupyter_notebooks/ML_Tensorflow_Iris.ipynb)
+[![ML1](images/L02.png)](jupyter_notebooks/ML_Tensorflow_Iris.ipynb)
 
-[![ML2](images/L5.png)](jupyter_notebooks/ML_Banknote.ipynb)
+[![ML2](images/L05.png)](jupyter_notebooks/ML_Banknote.ipynb)
 
 [![ML3](images/L10.png)](jupyter_notebooks/ML_Linear_Regression.ipynb)
 
@@ -88,9 +88,9 @@
 
 ## SAP
 
-[![SAP1](images/L4.png)](jupyter_notebooks/SAP_HCP_Sensor_Step1.ipynb)
+[![SAP1](images/L04.png)](jupyter_notebooks/SAP_HCP_Sensor_Step1.ipynb)
 
-[![SAP2](images/L8.png)](jupyter_notebooks/SAP_HCP_Sensor_Step2.ipynb)
+[![SAP2](images/L08.png)](jupyter_notebooks/SAP_HCP_Sensor_Step2.ipynb)
 
 [![SAP3](images/L22.png)](jupyter_notebooks/SAP_Hana_Azure_A.ipynb)
 
