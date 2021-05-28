@@ -20,19 +20,33 @@
 
 ## Google Cloud Platform
 
-[![GCP1](images/L31.png)](jupyter_notebooks/GCP_IoT_Step1A.ipynb)
+[![GCP01](images/L31.png)](jupyter_notebooks/GCP_IoT_Step1A.ipynb)
 
-[![GCP2](images/L32.png)](jupyter_notebooks/GCP_IoT_Step1B.ipynb)
+[![GCP02](images/L32.png)](jupyter_notebooks/GCP_IoT_Step1B.ipynb)
 
-[![GCP3](images/L33.png)](jupyter_notebooks/GCP_IoT_Step1C.ipynb)
+[![GCP03](images/L33.png)](jupyter_notebooks/GCP_IoT_Step1C.ipynb)
 
-[![GCP4](images/L34.png)](jupyter_notebooks/GCP_IoT_Step1D.ipynb)
+[![GCP04](images/L34.png)](jupyter_notebooks/GCP_IoT_Step1D.ipynb)
 
-[![GCP5](images/L35.png)](jupyter_notebooks/GCP_IoT_Step1E.ipynb)
+[![GCP05](images/L35.png)](jupyter_notebooks/GCP_IoT_Step1E.ipynb)
 
-[![GCP6](images/L36.png)](jupyter_notebooks/GCP_IoT_Step1F.ipynb)
+[![GCP06](images/L36.png)](jupyter_notebooks/GCP_IoT_Step1F.ipynb)
 
-[![GCP7](images/L37.png)](jupyter_notebooks/GCP_IoT_Step1G.ipynb)
+[![GCP07](images/L37.png)](jupyter_notebooks/GCP_IoT_Step1G.ipynb)
+
+[![GCP08](images/L46.png)](jupyter_notebooks/GCP_A.ipynb)
+
+[![GCP09](images/L47.png)](jupyter_notebooks/GCP_B.ipynb)
+
+[![GCP10](images/L48.png)](jupyter_notebooks/GCP_C.ipynb)
+
+[![GCP11](images/L49.png)](jupyter_notebooks/GCP_D.ipynb)
+
+[![GCP12](images/L50.png)](jupyter_notebooks/GCP_E.ipynb)
+
+[![GCP13](images/L51.png)](jupyter_notebooks/GCP_F.ipynb)
+
+[![GCP14](images/L52.png)](jupyter_notebooks/GCP_G.ipynb)
 
 ## Autonomous Car
 
