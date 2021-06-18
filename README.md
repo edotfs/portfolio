@@ -1,10 +1,31 @@
 # Portfolio
 ## Cloud Certifications
+
 ![Cloud0](images/L43.png)
 
 ![Cloud1](images/L44.png)
 
 ![Cloud2](images/L45.png)
+
+## Google Cloud Platform
+
+[![GCP08](images/L46.png)](jupyter_notebooks/GCP_Anthos_Docker.ipynb)
+
+[![GCP09](images/L47.png)](jupyter_notebooks/GCP_Anthos_Kubernetes.ipynb)
+
+[![GCP10](images/L48.png)](jupyter_notebooks/GCP_GKE_Autopilot1.ipynb)
+
+[![GCP11](images/L49.png)](jupyter_notebooks/GCP_GKE_Autopilot2.ipynb)
+
+[![GCP12](images/L50.png)](jupyter_notebooks/GCP_CR.ipynb)
+
+[![GCP13](images/L51.png)](jupyter_notebooks/GCP_CSR.ipynb)
+
+[![GCP14](images/L53.png)](jupyter_notebooks/GCP_GKE_CICD.ipynb)
+
+[![GCP15](images/L54.png)](jupyter_notebooks/GCP_GKE_Jenkins.ipynb)
+
+[![GCP16](images/L55.png)](jupyter_notebooks/GCP_TF_VM.ipynb)
 
 ## Amazon Web Services
 
@@ -18,7 +39,7 @@
 
 [![AWS5](images/L42.png)](jupyter_notebooks/AWS_IoT_Step5.ipynb)
 
-## Google Cloud Platform
+## Google Cloud Platform IoT
 
 [![GCP01](images/L31.png)](jupyter_notebooks/GCP_IoT_Step1A.ipynb)
 
@@ -33,20 +54,6 @@
 [![GCP06](images/L36.png)](jupyter_notebooks/GCP_IoT_Step1F.ipynb)
 
 [![GCP07](images/L37.png)](jupyter_notebooks/GCP_IoT_Step1G.ipynb)
-
-[![GCP08](images/L46.png)](jupyter_notebooks/GCP_A.ipynb)
-
-[![GCP09](images/L47.png)](jupyter_notebooks/GCP_B.ipynb)
-
-[![GCP10](images/L48.png)](jupyter_notebooks/GCP_C.ipynb)
-
-[![GCP11](images/L49.png)](jupyter_notebooks/GCP_D.ipynb)
-
-[![GCP12](images/L50.png)](jupyter_notebooks/GCP_E.ipynb)
-
-[![GCP13](images/L51.png)](jupyter_notebooks/GCP_F.ipynb)
-
-[![GCP14](images/L52.png)](jupyter_notebooks/GCP_G.ipynb)
 
 ## Autonomous Car
 
@@ -78,22 +85,6 @@
 
 [![ML3](images/L10.png)](jupyter_notebooks/ML_Linear_Regression.ipynb)
 
-## Big Data
-
-[![BD1](images/L14.png)](jupyter_notebooks/BD_Spark_Standalone.ipynb)
-
-[![BD2](images/L17.png)](jupyter_notebooks/BD_Hadoop_MapReduce.ipynb)
-
-[![BD3](images/L18.png)](jupyter_notebooks/BD_Hadoop_HDFS.ipynb)
-
-[![BD4](images/L19.png)](jupyter_notebooks/BD_Hadoop_Yarn.ipynb)
-
-[![BD5](images/L20.png)](jupyter_notebooks/BD_Hive.ipynb)
-
-[![BD6](images/L21.png)](jupyter_notebooks/BD_Azure_Hadoop.ipynb)
-
-[![BD7](images/L23.png)](jupyter_notebooks/BD_Azure_Spark.ipynb)
-
 ## Nvidia Jetson Nano
 
 [![JN1](images/L12.png)](jupyter_notebooks/Nvidia_Jetson_Nano_GPIO.ipynb)
@@ -109,6 +100,22 @@
 [![SAP3](images/L22.png)](jupyter_notebooks/SAP_Hana_Azure_A.ipynb)
 
 [![SAP4](images/L24.png)](jupyter_notebooks/SAP_Hana_Azure_B.ipynb)
+
+## Big Data
+
+[![BD1](images/L14.png)](jupyter_notebooks/BD_Spark_Standalone.ipynb)
+
+[![BD2](images/L17.png)](jupyter_notebooks/BD_Hadoop_MapReduce.ipynb)
+
+[![BD3](images/L18.png)](jupyter_notebooks/BD_Hadoop_HDFS.ipynb)
+
+[![BD4](images/L19.png)](jupyter_notebooks/BD_Hadoop_Yarn.ipynb)
+
+[![BD5](images/L20.png)](jupyter_notebooks/BD_Hive.ipynb)
+
+[![BD6](images/L21.png)](jupyter_notebooks/BD_Azure_Hadoop.ipynb)
+
+[![BD7](images/L23.png)](jupyter_notebooks/BD_Azure_Spark.ipynb)
 
 ## Hardware
 
