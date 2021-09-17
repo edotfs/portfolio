@@ -1,12 +1,14 @@
 # Portfolio
 
-## Cloud Certifications
+## Certifications
 
 ![CER01](images/covers/CER01.png)
 
 ![CER02](images/covers/CER02.png)
 
 ![CER03](images/covers/CER03.png)
+
+![CER04](images/covers/CER04.png)
 
 ## Google Cloud Platform - Machine Learning
 
