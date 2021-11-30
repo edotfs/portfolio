@@ -37,6 +37,8 @@
 
 [![GCP16](images/covers/GCP16.png)](jupyter_notebooks/GCP_TF_VM.ipynb)
 
+[![GCP19](images/covers/GCP19.png)](jupyter_notebooks/GCP_TF_BUCKET.ipynb)
+
 ## Google Cloud Platform - IoT
 
 [![GCP01](images/covers/GCP01.png)](jupyter_notebooks/GCP_IoT_Step1A.ipynb)
