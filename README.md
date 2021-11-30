@@ -17,7 +17,7 @@
 [![GCP18](images/covers/GCP18.png)](jupyter_notebooks/GCP_Vertex_a.ipynb)
 
 
-## Google Cloud Platform - SysOps
+## Google Cloud Platform - DevOps
 
 [![GCP08](images/covers/GCP08.png)](jupyter_notebooks/GCP_Anthos_Docker.ipynb)
 
