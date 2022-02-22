@@ -10,6 +10,11 @@
 
 ![CER04](images/covers/CER04.png)
 
+## Go - Concurrency
+
+![GO01](images/covers/GO01.png)
+
+
 ## Google Cloud Platform - Machine Learning
 
 [![GCP17](images/covers/GCP17.png)](jupyter_notebooks/ML_TensorFlow_Iris_c.ipynb)
