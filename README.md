@@ -10,17 +10,11 @@
 
 ![CER04](images/covers/CER04.png)
 
-## Go - Concurrency
-
-![GO01](images/covers/GO01.png)
-
-
 ## Google Cloud Platform - Machine Learning
 
 [![GCP17](images/covers/GCP17.png)](jupyter_notebooks/ML_TensorFlow_Iris_c.ipynb)
 
 [![GCP18](images/covers/GCP18.png)](jupyter_notebooks/GCP_Vertex_a.ipynb)
-
 
 ## Google Cloud Platform - DevOps
 
@@ -71,6 +65,12 @@
 [![AWS04](images/covers/AWS04.png)](jupyter_notebooks/AWS_IoT_Step4.ipynb)
 
 [![AWS05](images/covers/AWS05.png)](jupyter_notebooks/AWS_IoT_Step5.ipynb)
+
+## Ansible
+
+[![ANS01](images/covers/ANS01.png)](jupyter_notebooks/Ansible_AWS_01.ipynb)
+
+[![ANS02](images/covers/ANS02.png)](jupyter_notebooks/Ansible_AWS_02.ipynb)
 
 ## Autonomous Car
 
