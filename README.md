@@ -54,6 +54,12 @@
 
 [![GCP07](images/covers/GCP07.png)](jupyter_notebooks/GCP_IoT_Step1G.ipynb)
 
+## Ansible
+
+[![ANS01](images/covers/ANS01.png)](jupyter_notebooks/Ansible_AWS_01.ipynb)
+
+[![ANS02](images/covers/ANS02.png)](jupyter_notebooks/Ansible_AWS_02.ipynb)
+
 ## Amazon Web Services
 
 [![AWS01](images/covers/AWS01.png)](jupyter_notebooks/AWS_IoT_Step1.ipynb)
@@ -65,12 +71,6 @@
 [![AWS04](images/covers/AWS04.png)](jupyter_notebooks/AWS_IoT_Step4.ipynb)
 
 [![AWS05](images/covers/AWS05.png)](jupyter_notebooks/AWS_IoT_Step5.ipynb)
-
-## Ansible
-
-[![ANS01](images/covers/ANS01.png)](jupyter_notebooks/Ansible_AWS_01.ipynb)
-
-[![ANS02](images/covers/ANS02.png)](jupyter_notebooks/Ansible_AWS_02.ipynb)
 
 ## Autonomous Car
 
