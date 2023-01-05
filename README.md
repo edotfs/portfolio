@@ -96,6 +96,14 @@
 
 [![MLE04](images/covers/MLE04.png)](jupyter_notebooks/ML_Linear_Regression.ipynb)
 
+## REST API
+
+[![RES01](images/covers/RES01.png)](jupyter_notebooks/API_REST_GCP.ipynb)
+
+[![RES02](images/covers/RES02.png)](jupyter_notebooks/API_REST_AWS.ipynb)
+
+[![RES03](images/covers/RES03.png)](jupyter_notebooks/API_REST_ONP.ipynb)
+
 ## Microsoft Azure
 
 [![MAZ01](images/covers/MAZ01.png)](jupyter_notebooks/Azure_Hadoop.ipynb)
