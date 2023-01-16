@@ -38,6 +38,10 @@
 
 [![GCP19](images/covers/GCP19.png)](jupyter_notebooks/GCP_TF_BUCKET.ipynb)
 
+## SAP Cloud Platform Integration
+
+[![SAP03](images/covers/SAP03.png)](jupyter_notebooks/SAP_CPI_API.ipynb)
+
 ## Google Cloud Platform - IoT
 
 [![GCP01](images/covers/GCP01.png)](jupyter_notebooks/GCP_IoT_Step1A.ipynb)
