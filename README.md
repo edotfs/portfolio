@@ -42,6 +42,8 @@
 
 [![SAP03](images/covers/SAP03.png)](jupyter_notebooks/SAP_CPI_API.ipynb)
 
+[![SAP04](images/covers/SAP04.png)](jupyter_notebooks/SAP_CPI_Converter.ipynb)
+
 ## Google Cloud Platform - IoT
 
 [![GCP01](images/covers/GCP01.png)](jupyter_notebooks/GCP_IoT_Step1A.ipynb)
