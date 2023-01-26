@@ -43,7 +43,11 @@
 
 [![SAP06](images/covers/SAP06.png)](jupyter_notebooks/SAP_CPI_SFTP.ipynb)
 
-![SAP07](images/covers/SAP07.png)
+[![SAP07](images/covers/SAP07.png)](jupyter_notebooks/SAP_CPI_JDBC.ipynb)
+
+![SAP11](images/covers/SAP11.png)
+
+![SAP12](images/covers/SAP12.png)
 
 ![SAP08](images/covers/SAP08.png)
 
