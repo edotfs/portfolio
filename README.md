@@ -10,11 +10,6 @@
 
 ![CER04](images/covers/CER04.png)
 
-## Google Cloud Platform - Machine Learning
-
-[![GCP17](images/covers/GCP17.png)](jupyter_notebooks/ML_TensorFlow_Iris_c.ipynb)
-
-[![GCP18](images/covers/GCP18.png)](jupyter_notebooks/GCP_Vertex_a.ipynb)
 
 ## Google Cloud Platform - DevOps
 
@@ -40,9 +35,41 @@
 
 ## SAP Cloud Platform Integration
 
+[![SAP05](images/covers/SAP05.png)](jupyter_notebooks/SAP_CPI_CC.ipynb)
+
 [![SAP03](images/covers/SAP03.png)](jupyter_notebooks/SAP_CPI_API.ipynb)
 
 [![SAP04](images/covers/SAP04.png)](jupyter_notebooks/SAP_CPI_Converter.ipynb)
+
+[![SAP06](images/covers/SAP06.png)](jupyter_notebooks/SAP_CPI_SFTP.ipynb)
+
+![SAP07](images/covers/SAP07.png)
+
+![SAP08](images/covers/SAP08.png)
+
+![SAP09](images/covers/SAP09.png)
+
+![SAP10](images/covers/SAP10.png)
+
+## Amazon Web Services - IoT
+
+[![AWS01](images/covers/AWS01.png)](jupyter_notebooks/AWS_IoT_Step1.ipynb)
+
+[![AWS02](images/covers/AWS02.png)](jupyter_notebooks/AWS_IoT_Step2.ipynb)
+
+[![AWS03](images/covers/AWS03.png)](jupyter_notebooks/AWS_IoT_Step3.ipynb)
+
+[![AWS04](images/covers/AWS04.png)](jupyter_notebooks/AWS_IoT_Step4.ipynb)
+
+[![AWS05](images/covers/AWS05.png)](jupyter_notebooks/AWS_IoT_Step5.ipynb)
+
+## REST API - GCP - AWS - On-Premise
+
+[![RES01](images/covers/RES01.png)](jupyter_notebooks/API_REST_GCP.ipynb)
+
+[![RES02](images/covers/RES02.png)](jupyter_notebooks/API_REST_AWS.ipynb)
+
+[![RES03](images/covers/RES03.png)](jupyter_notebooks/API_REST_ONP.ipynb)
 
 ## Google Cloud Platform - IoT
 
@@ -60,33 +87,23 @@
 
 [![GCP07](images/covers/GCP07.png)](jupyter_notebooks/GCP_IoT_Step1G.ipynb)
 
-## Ansible
+## SAP IoT
 
-[![ANS01](images/covers/ANS01.png)](jupyter_notebooks/Ansible_AWS_01.ipynb)
+[![SAP01](images/covers/SAP01.png)](jupyter_notebooks/SAP_HCP_Sensor_Step1.ipynb)
 
-[![ANS02](images/covers/ANS02.png)](jupyter_notebooks/Ansible_AWS_02.ipynb)
-
-## Amazon Web Services
-
-[![AWS01](images/covers/AWS01.png)](jupyter_notebooks/AWS_IoT_Step1.ipynb)
-
-[![AWS02](images/covers/AWS02.png)](jupyter_notebooks/AWS_IoT_Step2.ipynb)
-
-[![AWS03](images/covers/AWS03.png)](jupyter_notebooks/AWS_IoT_Step3.ipynb)
-
-[![AWS04](images/covers/AWS04.png)](jupyter_notebooks/AWS_IoT_Step4.ipynb)
-
-[![AWS05](images/covers/AWS05.png)](jupyter_notebooks/AWS_IoT_Step5.ipynb)
-
-## Terraform
-
-[![TFM01](images/covers/TFM01.png)](jupyter_notebooks/Terraform_Jenkins_01.ipynb)
+[![SAP02](images/covers/SAP02.png)](jupyter_notebooks/SAP_HCP_Sensor_Step2.ipynb)
 
 ## Autonomous Car
 
 [![ACA01](images/covers/ACA01.png)](jupyter_notebooks/CV_Self_Driving_Car.ipynb)
 
 [![ACA02](images/covers/ACA02.png)](jupyter_notebooks/Donkey_Car_Project.ipynb)
+
+## Google Cloud Platform - Machine Learning
+
+[![GCP17](images/covers/GCP17.png)](jupyter_notebooks/ML_TensorFlow_Iris_c.ipynb)
+
+[![GCP18](images/covers/GCP18.png)](jupyter_notebooks/GCP_Vertex_a.ipynb)
 
 ## Deep Learning
 
@@ -102,24 +119,6 @@
 
 [![MLE04](images/covers/MLE04.png)](jupyter_notebooks/ML_Linear_Regression.ipynb)
 
-## REST API
-
-[![RES01](images/covers/RES01.png)](jupyter_notebooks/API_REST_GCP.ipynb)
-
-[![RES02](images/covers/RES02.png)](jupyter_notebooks/API_REST_AWS.ipynb)
-
-[![RES03](images/covers/RES03.png)](jupyter_notebooks/API_REST_ONP.ipynb)
-
-## Microsoft Azure
-
-[![MAZ01](images/covers/MAZ01.png)](jupyter_notebooks/Azure_Hadoop.ipynb)
-
-[![MAZ02](images/covers/MAZ02.png)](jupyter_notebooks/Azure_Spark.ipynb)
-
-[![MAZ03](images/covers/MAZ03.png)](jupyter_notebooks/Azure_SAP_a.ipynb)
-
-[![MAZ04](images/covers/MAZ04.png)](jupyter_notebooks/Azure_SAP_b.ipynb)
-
 ## Data Science
 
 [![DAS01](images/covers/DAS01.png)](jupyter_notebooks/DS_eBay_Kleinanzeigen.ipynb)
@@ -132,17 +131,31 @@
 
 [![DAS05](images/covers/DAS05.png)](others/log_temp.log)
 
+## Terraform
+
+[![TFM01](images/covers/TFM01.png)](jupyter_notebooks/Terraform_Jenkins_01.ipynb)
+
+## Ansible
+
+[![ANS01](images/covers/ANS01.png)](jupyter_notebooks/Ansible_AWS_01.ipynb)
+
+[![ANS02](images/covers/ANS02.png)](jupyter_notebooks/Ansible_AWS_02.ipynb)
+
+## Microsoft Azure
+
+[![MAZ01](images/covers/MAZ01.png)](jupyter_notebooks/Azure_Hadoop.ipynb)
+
+[![MAZ02](images/covers/MAZ02.png)](jupyter_notebooks/Azure_Spark.ipynb)
+
+[![MAZ03](images/covers/MAZ03.png)](jupyter_notebooks/Azure_SAP_a.ipynb)
+
+[![MAZ04](images/covers/MAZ04.png)](jupyter_notebooks/Azure_SAP_b.ipynb)
+
 ## Nvidia Jetson Nano
 
 [![NJN01](images/covers/NJN01.png)](jupyter_notebooks/Nvidia_Jetson_Nano_GPIO.ipynb)
 
 [![NJN02](images/covers/NJN02.png)](jupyter_notebooks/ROS_RC_Car.ipynb)
-
-## SAP
-
-[![SAP01](images/covers/SAP01.png)](jupyter_notebooks/SAP_HCP_Sensor_Step1.ipynb)
-
-[![SAP02](images/covers/SAP02.png)](jupyter_notebooks/SAP_HCP_Sensor_Step2.ipynb)
 
 ## Big Data
 
