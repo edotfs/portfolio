@@ -45,7 +45,7 @@
 
 [![SAP07](images/covers/SAP07.png)](jupyter_notebooks/SAP_CPI_JDBC.ipynb)
 
-![SAP11](images/covers/SAP11.png)
+[![SAP11](images/covers/SAP11.png)](jupyter_notebooks/SAP_CPI_ODATA.ipynb)
 
 ![SAP12](images/covers/SAP12.png)
 
@@ -67,7 +67,7 @@
 
 [![AWS05](images/covers/AWS05.png)](jupyter_notebooks/AWS_IoT_Step5.ipynb)
 
-## REST API - GCP - AWS - On-Premise
+## API REST - GCP - AWS - On-Premise
 
 [![RES01](images/covers/RES01.png)](jupyter_notebooks/API_REST_GCP.ipynb)
 
