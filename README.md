@@ -10,6 +10,27 @@
 
 ![CER04](images/covers/CER04.png)
 
+## SAP Cloud Platform Integration
+
+[![SAP05](images/covers/SAP05.png)](jupyter_notebooks/SAP_CPI_CC.ipynb)
+
+[![SAP03](images/covers/SAP03.png)](jupyter_notebooks/SAP_CPI_API.ipynb)
+
+[![SAP04](images/covers/SAP04.png)](jupyter_notebooks/SAP_CPI_Converter.ipynb)
+
+[![SAP06](images/covers/SAP06.png)](jupyter_notebooks/SAP_CPI_SFTP.ipynb)
+
+[![SAP07](images/covers/SAP07.png)](jupyter_notebooks/SAP_CPI_JDBC.ipynb)
+
+[![SAP11](images/covers/SAP11.png)](jupyter_notebooks/SAP_CPI_ODATA.ipynb)
+
+![SAP12](images/covers/SAP12.png)
+
+![SAP08](images/covers/SAP08.png)
+
+![SAP09](images/covers/SAP09.png)
+
+![SAP10](images/covers/SAP10.png)
 
 ## Google Cloud Platform - DevOps
 
@@ -33,27 +54,9 @@
 
 [![GCP19](images/covers/GCP19.png)](jupyter_notebooks/GCP_TF_BUCKET.ipynb)
 
-## SAP Cloud Platform Integration
+## SAP Process Orchestration 7.5
 
-[![SAP05](images/covers/SAP05.png)](jupyter_notebooks/SAP_CPI_CC.ipynb)
-
-[![SAP03](images/covers/SAP03.png)](jupyter_notebooks/SAP_CPI_API.ipynb)
-
-[![SAP04](images/covers/SAP04.png)](jupyter_notebooks/SAP_CPI_Converter.ipynb)
-
-[![SAP06](images/covers/SAP06.png)](jupyter_notebooks/SAP_CPI_SFTP.ipynb)
-
-[![SAP07](images/covers/SAP07.png)](jupyter_notebooks/SAP_CPI_JDBC.ipynb)
-
-[![SAP11](images/covers/SAP11.png)](jupyter_notebooks/SAP_CPI_ODATA.ipynb)
-
-![SAP12](images/covers/SAP12.png)
-
-![SAP08](images/covers/SAP08.png)
-
-![SAP09](images/covers/SAP09.png)
-
-![SAP10](images/covers/SAP10.png)
+![SAP13](images/covers/SAP13.png)
 
 ## Amazon Web Services - IoT
 
