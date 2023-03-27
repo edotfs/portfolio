@@ -58,11 +58,15 @@
 
 [![SAP13](images/covers/SAP13.png)](jupyter_notebooks/SAP_PO_CAL.ipynb)
 
+[![SAP17](images/covers/SAP17.png)](jupyter_notebooks/SAP_PO_SLD.ipynb)
+
 [![SAP14](images/covers/SAP14.png)](jupyter_notebooks/SAP_PO_F2F.ipynb)
 
 [![SAP15](images/covers/SAP15.png)](jupyter_notebooks/SAP_PO_S2S.ipynb)
 
 [![SAP16](images/covers/SAP16.png)](jupyter_notebooks/SAP_PO_J2J.ipynb)
+
+[![SAP18](images/covers/SAP18.png)](jupyter_notebooks/SAP_PO_R2F.ipynb)
 
 ## Amazon Web Services - IoT
 
