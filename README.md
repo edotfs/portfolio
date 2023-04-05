@@ -34,7 +34,7 @@
 
 ## iOS App Development
 
-![IOS01](images/covers/IOS01.png)
+[![IOS01](images/covers/IOS01.png)](jupyter_notebooks/IOS_Portfolio.ipynb)
 
 ## Google Cloud Platform - DevOps
 
