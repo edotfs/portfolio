@@ -10,6 +10,10 @@
 
 ![CER04](images/covers/CER04.png)
 
+## AWS - Amazon API Gateway
+
+[![AWS07](images/covers/AWS07.png)](jupyter_notebooks/AWS_APIGW.ipynb)
+
 ## SAP Cloud Platform Integration
 
 [![SAP05](images/covers/SAP05.png)](jupyter_notebooks/SAP_CPI_CC.ipynb)
@@ -58,6 +62,10 @@
 
 [![GCP19](images/covers/GCP19.png)](jupyter_notebooks/GCP_TF_BUCKET.ipynb)
 
+## AWS - AWS Database Migration Service
+
+[![AWS08](images/covers/AWS08.png)](jupyter_notebooks/AWS_DMS.ipynb)
+
 ## SAP Process Orchestration 7.5
 
 [![SAP13](images/covers/SAP13.png)](jupyter_notebooks/SAP_PO_CAL.ipynb)
@@ -95,6 +103,10 @@
 ## SAP Business Application Studio
 
 [![SAP19](images/covers/SAP19.png)](jupyter_notebooks/SAP_BAS_CRUD.ipynb)
+
+## AWS - AWS Lambda
+
+[![AWS06](images/covers/AWS06.png)](jupyter_notebooks/AWS_Lambda.ipynb)
 
 ## Google Cloud Platform - IoT
 
