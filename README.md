@@ -40,6 +40,10 @@
 
 [![IOS01](images/covers/IOS01.png)](jupyter_notebooks/IOS_Portfolio.ipynb)
 
+## SAP HANA
+
+![SAP20](images/covers/SAP20.png)
+
 ## Google Cloud Platform - DevOps
 
 [![GCP08](images/covers/GCP08.png)](jupyter_notebooks/GCP_Anthos_Docker.ipynb)
@@ -99,6 +103,10 @@
 [![RES02](images/covers/RES02.png)](jupyter_notebooks/API_REST_AWS.ipynb)
 
 [![RES03](images/covers/RES03.png)](jupyter_notebooks/API_REST_ONP.ipynb)
+
+## AWS - Networking
+
+![AWS09](images/covers/AWS09.png)
 
 ## SAP Business Application Studio
 
