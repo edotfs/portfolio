@@ -42,7 +42,7 @@
 
 ## SAP HANA
 
-![SAP20](images/covers/SAP20.png)
+[![SAP20](images/covers/SAP20.png)](jupyter_notebooks/SAP_HXE.ipynb)
 
 ## Google Cloud Platform - DevOps
 
