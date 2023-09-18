@@ -9,8 +9,10 @@
 
 [![iOS03](../images/covers/IOS03.png)](../jupyter_notebooks/iOS_GitHub.ipynb)
 
+[![iOS04](../images/covers/IOS04.png)](../jupyter_notebooks/iOS_CoreML.ipynb)
+
 [![iOS05](../images/covers/IOS05.png)](../jupyter_notebooks/iOS_UnitTests.ipynb)
 
-![iOS04](../images/covers/IOS04.png)
+![iOS06](../images/covers/IOS06.png)
 
 [![HOM00](../images/covers/BCK.png)](../README.md)
