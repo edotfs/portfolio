@@ -13,8 +13,6 @@
 
 [![iOS05](../images/covers/IOS05.png)](../jupyter_notebooks/iOS_UnitTests.ipynb)
 
-![iOS06](../images/covers/IOS06.png)
-
-![iOS07](../images/covers/IOS07.png)
+[![iOS06](../images/covers/IOS06.png)](../jupyter_notebooks/iOS_SwiftData.ipynb)
 
 [![HOM00](../images/covers/BCK.png)](../README.md)
