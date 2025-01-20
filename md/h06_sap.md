@@ -4,7 +4,9 @@
 
 [![SAP20](../images/covers/SAP20.png)](../jupyter_notebooks/SAP_HXE.ipynb)
 
-## SAP Cloud Platform Integration
+## SAP Cloud Integration [SAP Cloud Platform Integration]
+
+[![SAP21](../images/covers/SAP21.png)](../jupyter_notebooks/SAP_CI_HANADB.ipynb)
 
 [![SAP05](../images/covers/SAP05.png)](../jupyter_notebooks/SAP_CPI_CC.ipynb)
 
