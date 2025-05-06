@@ -4,7 +4,13 @@
 
 [![SAP20](../images/covers/SAP20.png)](../jupyter_notebooks/SAP_HXE.ipynb)
 
-## SAP Cloud Integration [SAP Cloud Platform Integration]
+## ABAP Platform Trial
+
+[![SAP22](../images/covers/SAP22.png)](../jupyter_notebooks/SAP_CI_RFC.ipynb)
+
+## SAP Cloud Integration
+
+[![SAP23](../images/covers/SAP23.png)](../jupyter_notebooks/SAP_CI_RFC.ipynb)
 
 [![SAP21](../images/covers/SAP21.png)](../jupyter_notebooks/SAP_CI_HANADB.ipynb)
 
