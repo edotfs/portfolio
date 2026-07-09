@@ -1,13 +1,5 @@
 # Portfolio - SAP
 
-## SAP HANA
-
-[![SAP20](../images/covers/SAP20.png)](../jupyter_notebooks/SAP_HXE.ipynb)
-
-## ABAP Platform Trial
-
-[![SAP22](../images/covers/SAP22.png)](../jupyter_notebooks/SAP_CI_RFC.ipynb)
-
 ## SAP Cloud Integration
 
 [![SAP23](../images/covers/SAP23.png)](../jupyter_notebooks/SAP_CI_RFC.ipynb)
@@ -48,9 +40,29 @@
 
 [![SAP18](../images/covers/SAP18.png)](../jupyter_notebooks/SAP_PO_R2F.ipynb)
 
-## SAP Business Application Studio
+## SAP Business Technology Platform
+
+[![SAP24](../images/covers/SAP24.png)](../jupyter_notebooks/SAP_BTP_Go.ipynb)
+
+[![SAP25](../images/covers/SAP25.png)](../jupyter_notebooks/SAP_BTP_Node.ipynb)
+
+[![SAP26](../images/covers/SAP26.png)](../jupyter_notebooks/SAP_BTP_ABAP.ipynb)
+
+[![SAP29](../images/covers/SAP29.png)](../jupyter_notebooks/SAP_BTP_CAP.ipynb)
+
+[![SAP28](../images/covers/SAP28.png)](../jupyter_notebooks/SAP_BTP_Fiori.ipynb)
+
+[![SAP27](../images/covers/SAP27.png)](../jupyter_notebooks/SAP_BTP_CTM.ipynb)
 
 [![SAP19](../images/covers/SAP19.png)](../jupyter_notebooks/SAP_BAS_CRUD.ipynb)
+
+## SAP HANA
+
+[![SAP20](../images/covers/SAP20.png)](../jupyter_notebooks/SAP_HXE.ipynb)
+
+## ABAP Platform Trial
+
+[![SAP22](../images/covers/SAP22.png)](../jupyter_notebooks/SAP_CI_RFC.ipynb)
 
 ## SAP IoT
 
