@@ -42,6 +42,8 @@
 
 ## SAP Business Technology Platform
 
+[![SAP30](../images/covers/SAP30.png)](../jupyter_notebooks/SAP_BTP_APIM.ipynb)
+
 [![SAP24](../images/covers/SAP24.png)](../jupyter_notebooks/SAP_BTP_Go.ipynb)
 
 [![SAP25](../images/covers/SAP25.png)](../jupyter_notebooks/SAP_BTP_Node.ipynb)
